@@ -21,7 +21,7 @@ Steps taken to clean and prepare the data:
 - Imputed missing Life expectancy values using average of adjacent years (self-join strategy).
 - Verified non-empty fields for key columns such as GDP, BMI, and Adult Mortality.
   
-📄 Script: [World Life Expectancy - Data Cleaning](https://github.com/nguyenpn1596/World-Life-Expectancy/blob/main/World%20Life%20Expectancy%20Project%20-%20Data%20Cleaning.sql)
+Script: [World Life Expectancy - Data Cleaning](https://github.com/nguyenpn1596/World-Life-Expectancy/blob/main/World%20Life%20Expectancy%20Project%20-%20Data%20Cleaning.sql)
 
 
 **📈 Exploratory Data Analysis (SQL):**
