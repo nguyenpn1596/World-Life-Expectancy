@@ -20,7 +20,8 @@ Steps taken to clean and prepare the data:
 - Filled in missing Status values (Developed / Developing) using JOIN based logic.
 - Imputed missing Life expectancy values using average of adjacent years (self-join strategy).
 - Verified non-empty fields for key columns such as GDP, BMI, and Adult Mortality.
-📄 Script: [World Life Expectancy - Data Cleaning]([https://pages.github.com/](https://github.com/nguyenpn1596/World-Life-Expectancy/blob/main/World%20Life%20Expectancy%20Project%20-%20Data%20Cleaning.sql).
+  
+📄 Script: [World Life Expectancy - Data Cleaning](https://github.com/nguyenpn1596/World-Life-Expectancy/blob/main/World%20Life%20Expectancy%20Project%20-%20Data%20Cleaning.sql)
 
 
 📈 Exploratory Data Analysis (SQL):
@@ -32,15 +33,17 @@ The EDA phase focused on uncovering trends and relationships:
 - Status (Developed/Developing): Developed countries have significantly higher average life expectancy.
 - BMI and Life Expectancy: Some correlation observed; extreme BMIs may reduce life expectancy.
 - Adult Mortality: Rolling sum used to track mortality trends across time for countries like the United States and United Kingdom.
+  
 📄 Script: [World Life Expectancy - Exploratory Data Analysis.sql](https://github.com/nguyenpn1596/World-Life-Expectancy/blob/main/World%20Life%20Expectancy%20Project%20-%20Exploratory%20Data%20Analysis)
 
 
 📊 Visualization:
 
-- Line Chart: Global Life Expectancy Over Time
-- Bar Chart: Top 10 Countries by Life Expectancy Gain
-- Scatter Plot: GDP vs Life Expectancy
-- Column Chart: Life Expectancy by Development Status
+- Line Chart: Global Life Expectancy Over Time.
+- Bar Chart: Top 10 Countries by Life Expectancy Gain.
+- Scatter Plot: GDP vs Life Expectancy.
+- Column Chart: Life Expectancy by Development Status.
+  
 [Tableu Visual Dashboard](https://public.tableau.com/app/profile/nguyen.nguyen4911/viz/WorldLifeExpectancy_17489236504530/WorldLifeExpectancyAnalysis?publish=yes)
 
 🔍 Key Insights
