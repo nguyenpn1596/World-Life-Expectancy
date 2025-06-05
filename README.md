@@ -53,3 +53,5 @@ The EDA phase focused on uncovering trends and relationships:
 ✅ Conclusion
 
 This project showcases practical skills in data cleaning, analysis, and visual storytelling using real-world health and economic indicators. It demonstrates how SQL can be used to process raw data and derive impactful insights, and how Excel and Tableau can be used to further refine and communicate findings visually.
+
+[I'm an inline-style link](https://www.google.com)
