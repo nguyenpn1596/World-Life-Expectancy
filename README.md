@@ -1,10 +1,14 @@
-# 📊 World Life Expectancy Data Analytic Project
+# 📊 World Life Expectancy Data Analysis Project
 
 
 **📁 Project Overview:**
 
 This project analyzes global life expectancy trends using the World Life Expectancy dataset. The goal is to understand key factors that influence life expectancy across different countries and time periods. The analysis includes data cleaning, exploratory data analysis (EDA), and visualization to derive actionable insights.
 
+![Tableau Dashboard Preview](World_Life_Expectancy_Dashboard.png)  
+*Tableau Table: World Life Expectancy*
+
+---
 
 **🧰 Tools & Technologies:**
 
