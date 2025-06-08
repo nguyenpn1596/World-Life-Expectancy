@@ -58,3 +58,14 @@ Script: [World Life Expectancy - Exploratory Data Analysis.sql](https://github.c
 **✅ Conclusion:**
 
 This project showcases practical skills in data cleaning, analysis, and visual storytelling using real-world health and economic indicators. It demonstrates how SQL can be used to process raw data and derive impactful insights, and how Excel and Tableau can be used to further refine and communicate findings visually.
+
+---
+
+## 📚 My Other Projects:
+
+- [Walmart Sales Analysis](https://github.com/nguyenpn1596/Walmart-Sales-Analysis/tree/main)
+- [COVID-19 Global Vaccine Tracker](https://github.com/nguyenpn1596/global-covid-vaccine-tracker/tree/main)
+- [World Life Expectancy](https://github.com/nguyenpn1596/World-Life-Expectancy)
+- [Sales & Training Analysis](https://github.com/nguyenpn1596/Sales-Training-and-Engagement-Analysis)
+
+## 👋🏻 Connect with me on [LinkedIn](https://www.linkedin.com/in/nguyenpn96/)
